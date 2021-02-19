@@ -3,7 +3,7 @@
 # Applied English for Graphic and Media Designers
 ## (English for Designers)
 
-- Summer 2021
+- **Summer 2021**
 - Tuesday, 9:45–16:30; <s>Room 104</s> online via Zoom and Slack
   - Group 1: 9:45–11:15, 11:30–13:00
   - Group 2: 13:15–14:45, 15:00–16:30
@@ -33,16 +33,16 @@
 
 ## Topics
 
-- Thesis abstract and outline writing
-- Thesis related article writing: design process documentation and discussion
-- Optional: Design a thesis process book (printed, website, etc. in English/Czech)
-- Thesis presentation
+- Thesis statement (abstract) and outline writing
+- Thesis documentation and presentation
   - Video (with slides/audio)
   - Audio (with transcript)
   - Article (with slides)
-    -	For example [Design Principles For The Web](https://adactio.com/articles/17733)
+    -	For example, see [Design Principles For The Web](https://adactio.com/articles/17733)
+- Thesis related article writing: design process documentation and discussion
+- **Optional:** Design a thesis process book (printed, website, etc. in English/Czech)
 - Contribution to online vocabulary reference (English/Czech)
-  - For example [60 Design Terms You Should Know](https://design.tutsplus.com/articles/60-design-terms-you-should-know--cms-34238)
+  - For example, see [60 Design Terms You Should Know](https://design.tutsplus.com/articles/60-design-terms-you-should-know--cms-34238)
 
 
 ## Grading
@@ -244,33 +244,47 @@ Helpful course related links.
 
 ### Week 1
 
-- Kickoff meeting and discussion
-  - Assignment:
-    - Thesis mind map to generate keywords and outline
-      - See [Miro](https://miro.com), [Whimsical](https://whimsical.com), etc.
-    - Draft thesis short description and outline
-    - 5-minute gist thesis presentations
+- Kickoff meeting, warm-up, and discussion.
+- Assignment:
+  1. Thesis Gist
+      - Thesis mind map to generate outline and keywords
+        - See [Miro](https://miro.com), [Whimsical](https://whimsical.com), [etc](https://www.mindmeister.com/blog/mind-maps-essay-writing/).
+      - Draft thesis short description, mind map, voice and tone, outline, keywords, and notes.
+        - See [Clarity First](01-clarity-first.md) for details.
+  2. 5-minute gist thesis presentation
+      - Tell your thesis story and share your thesis gist in 5 minutes.
 
 ### Week 2
 
 - 5-minute gist thesis presentations
-  - Markdown, PDF, etc.
+  - Webpage (Markdown/GitHub), Keynote, PDF, etc.
+- Assignment:
+  1. Draft thesis statement (abstract)
 
 ### Week 3
+ - TBA (to be announced)
 
 ### Week 4
+ - TBD (to be determined)
 
 ### Week 5
+ - TBD (to be determined)
 
 ### Week 6
+ - TBD (to be determined)
 
 ### Week 7
+  - Presentations feedback workshop
 
 ### Week 8
+  - Thesis presentations
+  - Performance Reviews
 
 ### Week 9
+  - Thesis presentations
+  - Performance Reviews
 
 
 ## Student Coursework
 
-- To be determined.
+- TBA (to be announced)
