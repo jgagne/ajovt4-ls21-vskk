@@ -249,7 +249,7 @@ Helpful course related links.
   1. Thesis Gist
       - Thesis mind map to generate outline and keywords
         - See [Miro](https://miro.com), [Whimsical](https://whimsical.com), [etc](https://www.mindmeister.com/blog/mind-maps-essay-writing/).
-      - Draft thesis short description, mind map, voice and tone, outline, keywords, and notes.
+      - Draft thesis short description, mind map, voice and tone, outline, notes, keywords, and references.
         - See [Clarity First](01-clarity-first.md) for details.
   2. 5-minute gist thesis presentation
       - Tell your thesis story and share your thesis gist in 5 minutes.
