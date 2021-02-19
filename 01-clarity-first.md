@@ -96,7 +96,7 @@ Use the same repo as the previous semester and continue the order (and naming co
     - `06-clarity-first`
       - `thesis-outline.md`
       -  `img`
-        - `thesis-mind-map.png`
+          - `thesis-mind-map.png`
 
 ### Format
 
