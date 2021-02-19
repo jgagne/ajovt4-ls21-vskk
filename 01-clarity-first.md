@@ -90,7 +90,7 @@ Use the same repo as the previous semester and continue the order (and naming co
 
 - Create a project folder (repo) with a Markdown file and an image folder/file.
   - For example:
-    - `07-clarify-first`
+    - `06-clarity-first`
       - `thesis-outline.md`
       -  `img`
         - `thesis-mind-map.png`
