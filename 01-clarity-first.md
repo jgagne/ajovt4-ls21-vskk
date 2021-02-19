@@ -1,6 +1,7 @@
 # Clarity First
 
 - [Brief](#brief)
+- [Details](#details)
 - [Handoff](#handoff)
 - [Recap](#recap)
 
@@ -31,6 +32,8 @@ Keywords should:
 
 - Represent the content of your work
 - Be specific to your field, topic, etc.
+
+## Details
 
 # Thesis Title
 
