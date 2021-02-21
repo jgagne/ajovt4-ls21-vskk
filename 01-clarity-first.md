@@ -81,7 +81,7 @@ Short description; aim for a single-sentence in 120 characters or less.
 
 ### References
 
-- [APA Style Reference Examples](http://https://apastyle.apa.org/style-grammar-guidelines/references/examples)
+- [APA Style Reference Examples](https://apastyle.apa.org/style-grammar-guidelines/references/examples)
 - [Reference](http://)
 - [Reference](http://)
 
@@ -117,6 +117,8 @@ Short description; aim for a single-sentence in 120 characters or less.
 
 ### Voice & Tone
 
+<!-- For example. See Recap section links for review. -->
+
 - **Voice:** Human, confident, educated, and inspirational.
 - **Tone:** Formal (academic), but friendly, enthusiastic, and conversational.
 
@@ -151,10 +153,11 @@ Short description; aim for a single-sentence in 120 characters or less.
 
 ### References
 
-- [APA Style Reference Examples](http://https://apastyle.apa.org/style-grammar-guidelines/references/examples)
-- [Reference](http://)
-- [Reference](http://)
+<!-- Consider reference style for textual works, data sets, and audiovisual and online media. -->
 
+- [APA Style Reference Examples](https://apastyle.apa.org/style-grammar-guidelines/references/examples)
+- [Reference](http://)
+- [Reference](http://)
 ```
 
 ## Recap
