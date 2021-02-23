@@ -266,12 +266,12 @@ Helpful course related links.
       - [Quick Start Guide for Writing Abstracts](https://designincubation.com/publications/white-papers/quick-start-guide-for-writing-abstracts/)
       - [Academic Abstract Wizard](https://designincubation.com/abstract-wizard/)
   2. Research and select 1–3 related thesis projects (to reference and share)
-    - See [graduate thesis projects](https://design.uic.edu/graduate-year/2018) from the University of Illinois at Chicago School of Design
-    - See also [Google Scholar](https://scholar.google.com)
+      - See [graduate thesis projects](https://design.uic.edu/graduate-year/2018) from the University of Illinois at Chicago School of Design
+      - See also [Google Scholar](https://scholar.google.com)
 
 ### Week 3
 
-- TBA (to be announced)
+- Discuss draft thesis statements and related examples
 
 ### Week 4
 
