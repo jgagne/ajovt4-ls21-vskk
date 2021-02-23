@@ -244,45 +244,60 @@ Helpful course related links.
 
 ### Week 1
 
-- Kickoff meeting, warm-up, and discussion.
+- Kickoff meeting, warm-up, and discussion
 - Assignment:
-  1. Thesis Gist
+  1. Write thesis gist
       - Thesis mind map to generate outline and keywords
         - See [Miro](https://miro.com), [Whimsical](https://whimsical.com), [etc](https://www.mindmeister.com/blog/mind-maps-essay-writing/).
       - Draft thesis short description, mind map, voice and tone, outline, notes, keywords, and references.
         - See [Clarity First](01-clarity-first.md) for details.
-  2. 5-minute gist thesis presentation
+  2. Create 5-minute gist thesis presentation
       - Tell your thesis story and share your thesis gist in 5 minutes.
+      - Webpage (Markdown/GitHub), Keynote, PDF, etc.
 
 ### Week 2
 
-- 5-minute gist thesis presentations
-  - Webpage (Markdown/GitHub), Keynote, PDF, etc.
+- 5-minute, in-class, gist thesis presentations
+- Reading:
+  - [Writing an Academic Research Abstract: For Communication Design Scholars](https://designincubation.com/publications/white-papers/writing-an-academic-research-abstract-for-communication-graphic-design-researchers-scholars/)
 - Assignment:
-  1. Draft thesis statement (abstract)
+  1. Write draft thesis statement (abstract)
+      - Assignment brief *to be announced*
+      - [Quick Start Guide for Writing Abstracts](https://designincubation.com/publications/white-papers/quick-start-guide-for-writing-abstracts/)
+      - [Academic Abstract Wizard](https://designincubation.com/abstract-wizard/)
+  2. Research and select 1–3 related thesis projects (to reference and share)
+    - See [graduate thesis projects](https://design.uic.edu/graduate-year/2018) from the University of Illinois at Chicago School of Design
+    - See also [Google Scholar](https://scholar.google.com)
 
 ### Week 3
- - TBA (to be announced)
+
+- TBA (to be announced)
 
 ### Week 4
- - TBD (to be determined)
+
+- TBD (to be determined)
 
 ### Week 5
- - TBD (to be determined)
+
+- TBD (to be determined)
 
 ### Week 6
- - TBD (to be determined)
+
+- TBD (to be determined)
 
 ### Week 7
-  - Presentations feedback workshop
+
+- Presentations feedback workshop
 
 ### Week 8
-  - Thesis presentations
-  - Performance Reviews
+
+- Thesis presentations
+- Performance Reviews
 
 ### Week 9
-  - Thesis presentations
-  - Performance Reviews
+
+- Thesis presentations
+- Performance Reviews
 
 
 ## Student Coursework
