@@ -15,7 +15,7 @@
 >
 > —[Austin Kleon](https://austinkleon.com)
 
-Write a draft thesis abstract using [Quick Start Guide for Writing Abstracts](https://designincubation.com/publications/white-papers/quick-start-guide-for-writing-abstracts/) and [Academic Abstract Wizard](https://designincubation.com/abstract-wizard/) as a content guide to explore the following elements:
+Write a draft thesis abstract using [Quick Start Guide for Writing Abstracts](https://designincubation.com/publications/white-papers/quick-start-guide-for-writing-abstracts/) and [Academic Abstract Wizard](https://designincubation.com/abstract-wizard/) as content guides for exploring the following elements:
 
 - Title
 - Keywords
@@ -59,3 +59,4 @@ Write a draft thesis abstract using [Quick Start Guide for Writing Abstracts](ht
 
 - [Quick Start Guide for Writing Abstracts](https://designincubation.com/publications/white-papers/quick-start-guide-for-writing-abstracts/)
 - [Academic Abstract Wizard](https://designincubation.com/abstract-wizard/)
+- [Graduate Thesis Projects](https://design.uic.edu/graduate-year/2018) from the University of Illinois at Chicago School of Design
