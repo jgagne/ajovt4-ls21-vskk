@@ -263,8 +263,6 @@ Helpful course related links.
 - Assignment:
   1. Write draft thesis statement (abstract)
       - See [Abstract Draft](07-abstract-draft.md) for details.
-      - [Quick Start Guide for Writing Abstracts](https://designincubation.com/publications/white-papers/quick-start-guide-for-writing-abstracts/)
-      - [Academic Abstract Wizard](https://designincubation.com/abstract-wizard/)
   2. Research and select 1–3 related thesis projects (to reference and share)
       - See [graduate thesis projects](https://design.uic.edu/graduate-year/2018) from the University of Illinois at Chicago School of Design
       - See also [Google Scholar](https://scholar.google.com)
