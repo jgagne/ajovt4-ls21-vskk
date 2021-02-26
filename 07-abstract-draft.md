@@ -17,13 +17,13 @@
 
 Write a draft thesis abstract using [Quick Start Guide for Writing Abstracts](https://designincubation.com/publications/white-papers/quick-start-guide-for-writing-abstracts/) and [Academic Abstract Wizard](https://designincubation.com/abstract-wizard/) as content guides for exploring the following elements:
 
-- Title
-- Keywords
-- Motivation/Problem and/or Opportunity
-- Thesis
-- Approach/Methodology
-- Results/Outcomes/Analysis
-- Conclusion
+1. Title
+2. Keywords
+3. Motivation/Problem and/or Opportunity
+4. Thesis
+5. Approach/Methodology
+6. Results/Outcomes/Analysis
+7. Conclusion
 
 ## Handoff
 
@@ -48,7 +48,6 @@ Write a draft thesis abstract using [Quick Start Guide for Writing Abstracts](ht
 # Title
 
 <!-- Content goes here… -->
-
 ```
 
 ## Readings
