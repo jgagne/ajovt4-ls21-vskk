@@ -271,6 +271,7 @@ Helpful course related links.
 
 ### Week 3
 
+- Continue gist thesis presentations
 - Discuss draft thesis statements and related examples
 
 ### Week 4
