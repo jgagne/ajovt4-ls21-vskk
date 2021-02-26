@@ -250,7 +250,7 @@ Helpful course related links.
       - Thesis mind map to generate outline and keywords
         - See [Miro](https://miro.com), [Whimsical](https://whimsical.com), [etc](https://www.mindmeister.com/blog/mind-maps-essay-writing/).
       - Draft thesis short description, mind map, voice and tone, outline, notes, keywords, and references.
-        - See [Clarity First](01-clarity-first.md) for details.
+        - See [Clarity First](06-clarity-first.md) for details.
   2. Create 5-minute gist thesis presentation
       - Tell your thesis story and share your thesis gist in 5 minutes.
       - Webpage (Markdown/GitHub), Keynote, PDF, etc.
@@ -262,7 +262,7 @@ Helpful course related links.
   - [Writing an Academic Research Abstract: For Communication Design Scholars](https://designincubation.com/publications/white-papers/writing-an-academic-research-abstract-for-communication-graphic-design-researchers-scholars/)
 - Assignment:
   1. Write draft thesis statement (abstract)
-      - Assignment brief *to be announced*
+      - See [Abstract Draft](07-abstract-draft.md) for details.
       - [Quick Start Guide for Writing Abstracts](https://designincubation.com/publications/white-papers/quick-start-guide-for-writing-abstracts/)
       - [Academic Abstract Wizard](https://designincubation.com/abstract-wizard/)
   2. Research and select 1–3 related thesis projects (to reference and share)
