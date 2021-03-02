@@ -7,7 +7,7 @@
 
 ## Brief
 
-> The first draft is a skeleton….just bare bones. The rest of the story comes later with revising.
+> The first draft is a skeleton… just bare bones. The rest of the story comes later with revising.
 >
 > —[Judy Blume](http://judyblume.com)
 

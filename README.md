@@ -271,6 +271,12 @@ Helpful course related links.
 
 - Continue gist thesis presentations
 - Discuss draft thesis statements and related examples
+- Assignment:
+  1. Post links to [Clarity First](06-clarity-first.md) and [Abstract Draft](07-abstract-draft.md) in respective Slack channels for feedback
+  2. Transcribe gist presentation into an article based on [Clarity First](06-clarity-first.md) and [Abstract Draft](07-abstract-draft.md) (in Markdown via GitHub)
+      - Handoff details to be determined
+  3. Collate and document process work into a case study (in Markdown via GitHub)
+      - Handoff details to be determined
 
 ### Week 4
 
