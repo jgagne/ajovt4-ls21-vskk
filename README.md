@@ -278,6 +278,8 @@ Helpful course related links.
       - Handoff details to be determined
   3. Collate and document process work into a case study (in Markdown via GitHub)
       - Handoff details to be determined
+- Reading:
+  - [Design Thinking through the Writing Process](https://medium.com/8px-magazine/design-thinking-through-the-writing-process-9075d56db517)
 
 ### Week 4
 
