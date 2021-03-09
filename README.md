@@ -284,8 +284,10 @@ Helpful course related links.
 ### Week 4
 
 - Continue gist thesis presentations
-- Discuss thesis gist and abstract article
-  - See
+- Discuss thesis abstract gist and article (extended)
+  - Example thesis abstract gist:
+    - [Thesis Projects](https://www.gsd.harvard.edu/projects/?project_type=thesis&department) from Harvard University Graduate School of Design
+  - Example thesis abstract article (extended) elements:
       - [Design Principles For The Web](https://adactio.com/articles/17733)
       - [Naming CSS Stuff Is Really Hard](https://sparkbox.com/foundry/naming_css_stuff_is_really_hard)
       - [SIGHTLINES: 2017 SVA MA Design](https://vimeo.com/216470139)
