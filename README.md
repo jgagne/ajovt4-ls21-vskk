@@ -291,6 +291,7 @@ Helpful course related links.
       - [SIGHTLINES: 2017 SVA MA Design](https://vimeo.com/216470139)
   - Handoff details to be determined
 - Discuss process work case study
+  - Visual brand redesign, design research, etc.
   - Handoff details to be determined
 
 ### Week 5
