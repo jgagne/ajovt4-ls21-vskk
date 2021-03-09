@@ -283,19 +283,27 @@ Helpful course related links.
 
 ### Week 4
 
-- TBD (to be determined)
+- Continue gist thesis presentations
+- Discuss thesis gist and abstract article
+  - See
+      - [Design Principles For The Web](https://adactio.com/articles/17733)
+      - [Naming CSS Stuff Is Really Hard](https://sparkbox.com/foundry/naming_css_stuff_is_really_hard)
+      - [SIGHTLINES: 2017 SVA MA Design](https://vimeo.com/216470139)
+  - Handoff details to be determined
+- Discuss process work case study
+  - Handoff details to be determined
 
 ### Week 5
 
-- TBD (to be determined)
+- Process work case study workshop
 
 ### Week 6
 
-- TBD (to be determined)
+- Writing and feedback workshop
 
 ### Week 7
 
-- Presentations feedback workshop
+- Presentations workshop
 
 ### Week 8
 
