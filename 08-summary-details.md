@@ -90,11 +90,11 @@ designer, social networks.
 
 - Create a project folder (repo) with a Markdown file and an image folder/file.
   - For example:
-    - `00-details-summary`
-      - `thesis-abstract-details.md`
+    - `08-summary-details`
+      - `thesis-summary-details.md`
       -  `img`
-          - `thesis-abstract-hero.png`
-          - `thesis-abstract-figure-1.png`
+          - `thesis-hero.png`
+          - `thesis-figure-1.png`
           - `…`
 
 ### Format
