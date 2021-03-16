@@ -126,13 +126,14 @@ Date
 ## Examples
 
 - [Naming CSS Stuff Is Really Hard](https://sparkbox.com/foundry/naming_css_stuff_is_really_hard) — Short and long version
-- [SIGHTLINES: 2017 SVA MA Design](https://vimeo.com/216470139) — Video (or audio) introduction of your summary (abstract).
+- [SIGHTLINES: 2017 SVA MA Design](https://vimeo.com/216470139) — Video (or audio) introduction of your summary (abstract)
 
 
 ## Readings
 
-- [Content Buddy](https://adactio.com/journal/10654) by Jeremy Keith
-    - [Hindsight: Fifty Years of the Yale Graphic Design Thesis](https://futurehistory.aiga.org/resources/content/2/2/6/8/documents/r_hoyt.pdf) by Randall Eugene Hoyt `[PDF]`
+- [Content Buddy](https://adactio.com/journal/17906) by Jeremy Keith
+  - [Content Buddy](https://adactio.com/journal/10654) (from 2016)
+- [Hindsight: Fifty Years of the Yale Graphic Design Thesis](https://futurehistory.aiga.org/resources/content/2/2/6/8/documents/r_hoyt.pdf) by Randall Eugene Hoyt `[PDF]`
 
 
 ## Recap
