@@ -38,7 +38,7 @@ Write a draft thesis abstract using [Quick Start Guide for Writing Abstracts](ht
 
 ### Format
 
-- `thesis-abstract.md`
+- `thesis-abstract-draft.md`
 
 ```
 <!-- Add an *optional* hero image to provide visual context. -->

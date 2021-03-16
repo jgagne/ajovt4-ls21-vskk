@@ -285,9 +285,13 @@ Helpful course related links.
 
 - Continue gist thesis presentations
 - Discuss thesis abstract gist and article (extended)
-  - Example thesis abstract gist:
-    - [Thesis Projects](https://www.gsd.harvard.edu/projects/?project_type=thesis&department) from Harvard University Graduate School of Design
-  - Example thesis abstract article (extended) elements:
+  - Thesis abstract gist:
+    - Examples:
+      - [Working with Urban Informality: A Postcolonial Critique of Planning Theory based on Lessons from the Caño Martín Peña Special Planning District](https://www.gsd.harvard.edu/project/working-with-urban-informality-a-postcolonial-critique-of-planning-theory-based-on-lessons-from-the-cano-martin-pena-special-planning-district/) by Samantha Saona
+    - [Waltzing typeface](https://design.uic.edu/student-work/michaela-tures) by Michaela Tures
+  - Thesis abstract expanded
+    - Examples:
+      - [Rescaling the University: Vertical Campuses and Postindustrial Urban Restructuring in Western Sydney](https://www.gsd.harvard.edu/project/2020-urban-design-thesis-prize-justin-cawleys-rescaling-the-university-vertical-campuses-and-postindustrial-urban-restructuring-in-western-sydney/) by Justin Cawley
       - [Design Principles For The Web](https://adactio.com/articles/17733)
       - [Naming CSS Stuff Is Really Hard](https://sparkbox.com/foundry/naming_css_stuff_is_really_hard)
       - [SIGHTLINES: 2017 SVA MA Design](https://vimeo.com/216470139)
@@ -299,6 +303,8 @@ Helpful course related links.
 ### Week 5
 
 - Process work case study workshop
+  - Assignment:
+    - [Summary & Details](08-summary-details.md)
 
 ### Week 6
 
