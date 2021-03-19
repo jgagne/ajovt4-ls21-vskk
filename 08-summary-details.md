@@ -20,7 +20,7 @@
 >
 > —Simon Kennedy, designer
 
-Bring together thesis outline and abstract content into a short article featuring a summary, the gist, and expanded details content to present an experience of your thesis. Consider use of audio, video (slides and audio), and images (slides) to accompany the details text — going beyond the PDF, PowerPoint, Keynote, etc. presentation format.
+Bring together thesis outline and abstract content into a short article featuring a summary, the gist, and expanded details content to present an experience of your thesis. Consider use of audio, video (slides and audio), and images (slides) to accompany the expanded details text — going beyond the PDF, PowerPoint, Keynote, etc. presentation format.
 
 
 ## Details
@@ -131,9 +131,18 @@ Date
 
 ## Readings
 
+- [Audio Articles are Helping News Outlets Gain Loyal Audiences](https://niemanreports.org/articles/audio-articles-are-helping-news-outlets-gain-loyal-audiences/)
 - [Content Buddy](https://adactio.com/journal/17906) by Jeremy Keith
   - [Content Buddy](https://adactio.com/journal/10654) (from 2016)
 - [Hindsight: Fifty Years of the Yale Graphic Design Thesis](https://futurehistory.aiga.org/resources/content/2/2/6/8/documents/r_hoyt.pdf) by Randall Eugene Hoyt `[PDF]`
+
+
+## Tools
+
+- [Descript](https://www.descript.com)
+- [Mmhmm](https://www.mmhmm.app)
+- [Pitch](https://pitch.com)
+- [Wistia](https://wistia.com) — Video hosting, alternative to YouTube or Vimeo
 
 
 ## Recap
