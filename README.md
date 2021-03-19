@@ -302,7 +302,7 @@ Helpful course related links.
 
 ### Week 5
 
-- Process work case study workshop
+- Outline, abstract, and article/presentation discussion and feedback
   - Assignment:
     - [Summary & Details](08-summary-details.md)
 
@@ -316,13 +316,14 @@ Helpful course related links.
 
 ### Week 8
 
-- Thesis presentations
-- Performance Reviews
+- *No class*, Easter break
+- <s>Thesis presentations</s>
+- <s>Performance reviews</s>
 
 ### Week 9
 
 - Thesis presentations
-- Performance Reviews
+- Performance reviews
 
 
 ## Student Coursework

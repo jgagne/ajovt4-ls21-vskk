@@ -27,6 +27,8 @@ Bring together thesis outline and abstract content into a short article featurin
 
 ### Summary (Gist)
 
+The gist of your thesis with a collection of keywords.
+
 > **Abstract:**
 >
 > The topic of this bachelor´s thesis is Promotion of the Czech Republic abroad through Czech centres. Theoretical part of the thesis includes theory of tourism and marketing and their specific parts but also theory of translation and its processes. Practical part uses the knowledge from the theoretical part in order to analyse the product of the Czech centres. The main goal of this thesis is to describe how the Czech centres work using comparative and SWOT analyses and also to make suggestions for their potential improvement.
@@ -80,6 +82,8 @@ designer, social networks.
 
 ### Details (Expanded)
 
+An expanded article, presenting key details of your thesis, based on your outline.
+
 - [Rescaling the University: Vertical Campuses and Postindustrial Urban Restructuring in Western Sydney](https://www.gsd.harvard.edu/project/2020-urban-design-thesis-prize-justin-cawleys-rescaling-the-university-vertical-campuses-and-postindustrial-urban-restructuring-in-western-sydney/) by Justin Cawley
 - [Design Principles For The Web](https://adactio.com/articles/17733)
 
@@ -123,19 +127,21 @@ Date
 <!-- Expanded article based on outline. -->
 ```
 
-## Examples
-
-- [Naming CSS Stuff Is Really Hard](https://sparkbox.com/foundry/naming_css_stuff_is_really_hard) — Short and long version
-- [SIGHTLINES: 2017 SVA MA Design](https://vimeo.com/216470139) — Video (or audio) introduction of your summary (abstract)
-
-
 ## Readings
 
 - [Audio Articles are Helping News Outlets Gain Loyal Audiences](https://niemanreports.org/articles/audio-articles-are-helping-news-outlets-gain-loyal-audiences/)
+- [Hindsight: Fifty Years of the Yale Graphic Design Thesis](https://futurehistory.aiga.org/resources/content/2/2/6/8/documents/r_hoyt.pdf) by Randall Eugene Hoyt `[PDF]`
 - [Content Buddy](https://adactio.com/journal/17906) by Jeremy Keith
   - [Content Buddy](https://adactio.com/journal/10654) (from 2016)
-- [Hindsight: Fifty Years of the Yale Graphic Design Thesis](https://futurehistory.aiga.org/resources/content/2/2/6/8/documents/r_hoyt.pdf) by Randall Eugene Hoyt `[PDF]`
 
+## Recap
+
+- [Better Writing Feedback](http://www.betterwritingfeedback.com)
+
+## Resources
+
+- [Naming CSS Stuff Is Really Hard](https://sparkbox.com/foundry/naming_css_stuff_is_really_hard) — Short and long version
+- [SIGHTLINES: 2017 SVA MA Design](https://vimeo.com/216470139) — Video (or audio) introduction of your summary (abstract)
 
 ## Tools
 
@@ -143,8 +149,3 @@ Date
 - [Mmhmm](https://www.mmhmm.app)
 - [Pitch](https://pitch.com)
 - [Wistia](https://wistia.com) — Video hosting, alternative to YouTube or Vimeo
-
-
-## Recap
-
-- [Better Writing Feedback](http://www.betterwritingfeedback.com)
