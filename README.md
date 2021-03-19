@@ -237,7 +237,7 @@ Helpful course related links.
 - [Week 5](#week-5), March 16
 - [Week 6](#week-6), March 23
 - [Week 7](#week-7), March 30
-- [Week 8](#week-8), April 6
+- [Week 8](#week-8), April 6, *No class*, Easter break
 - [Week 9](#week-9), April 13
 
 **Note:** Preliminary, work in progress, schedule details are subject to change.
