@@ -309,6 +309,7 @@ Helpful course related links.
 ### Week 6
 
 - Writing and feedback workshop
+  - [How to write a thesis statement](https://www.scribbr.com/academic-essay/thesis-statement/) exercise
 
 ### Week 7
 
