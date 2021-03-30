@@ -317,8 +317,8 @@ Helpful course related links.
 
 ### Week 8
 
-- Thesis presentations
-- Performance reviews
+- Rehearsal and final thesis presentations (depending on progress)
+  - Abstract and article: [Summary & Details](08-summary-details.md)
 
 ### Week 9
 
