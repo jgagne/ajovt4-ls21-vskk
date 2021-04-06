@@ -239,6 +239,7 @@ Helpful course related links.
 - [Week 7](#week-7), March 30
 - [Week 8](#week-8), April 6
 - [Week 9](#week-9), April 13
+- [Week 10](#week-10), April 20, *Optional* class for presentations
 
 **Note:** Preliminary, work in progress, schedule details are subject to change.
 
@@ -324,6 +325,12 @@ Helpful course related links.
 
 - Thesis presentations
 - Performance reviews
+
+### Week 10
+
+- *Optional* class:
+  - Thesis presentations
+  - Performance reviews
 
 
 ## Student Coursework
