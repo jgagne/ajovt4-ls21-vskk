@@ -240,6 +240,7 @@ Helpful course related links.
 - [Week 8](#week-8), April 6
 - [Week 9](#week-9), April 13
 - [Week 10](#week-10), April 20, *Optional* class for presentations
+- [Week 11](#week-11), April 27, Makeup class for presentations
 
 **Note:** Preliminary, work in progress, schedule details are subject to change.
 
@@ -330,7 +331,19 @@ Helpful course related links.
 
 - *Optional* class:
   - Thesis presentations
-  - Performance reviews
+- Homework:
+  - Update GitHub repo with all work from the semester (even updates from last semester)
+  - Update GitHub repo `index.md` home page to link to all work
+  - Add link to `00-home-page` channel is Slack
+
+### Week 11
+
+- Makeup class:
+  - Thesis presentation starting at 1:30 p.m.
+- Homework:
+  - Update GitHub repo with all work from the semester (even updates from last semester)
+  - Update GitHub repo `index.md` home page to link to all work
+  - Add link to `00-home-page` channel is Slack
 
 
 ## Student Coursework
