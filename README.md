@@ -350,8 +350,6 @@ Helpful course related links.
 - Make up class:
   - Thesis presentation starting at 1:30 p.m.
 
-
-
 ## Student Coursework
 
-- TBA (to be announced)
+- [English for Designers](https://jgagne.github.io/ajovt3-zs20-vskk)
