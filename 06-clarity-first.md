@@ -107,12 +107,9 @@ Use the same repo as the previous semester and continue the order (and naming co
 
 Short description; aim for a single-sentence in 120 characters or less.
 
-<!-- Note the inclusion of an empty line break after the summary element for formatting. -->
-
 <details>
   <summary>Mind Map</summary>
-
-  ![Gray box placeholder image, for position only.](./img/thesis-mind-map.png)
+  <img alt="Gray box placeholder image, for position only." src="thesis-mind-map.png">
 </details>
 
 ### Voice & Tone
